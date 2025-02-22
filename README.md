@@ -1,5 +1,5 @@
 # EDA-training
-Collection of EDA projects using various databases, with additional insights and improvements.
+Collection of EDA projects using various databases with insights.
 
 
 ## Is Comedy Dead? 🎬 
